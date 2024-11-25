@@ -1,6 +1,6 @@
 {
-  "name": "gifted-md",
-  "description": "I am Gifted-Md WhatsApp MultiDevice Bot built in NodeJs to enhance the experience",
+  "name": "KAVIYA OFFICIAL BOT",
+  "description": "I am Gifted-Md WhatsApp MultiDevice Bot built in NodeJs to enhance the experience     මොකක්ද වෙන්න ඔනි",
   "website": "https://session.giftedtech.my.id",
   "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
   "keywords": ["gifted-md", "giftedtech", "Gifted-Md"],
@@ -15,12 +15,12 @@
     "MODE": {
       "description": "set Mode  to public or private",
       "required": false,
-      "value": "private"
+      "value": "public"
     },
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "Gifted Tech"
+      "value": "KAVIYA OFFICIAL BOT"
     },
     "OWNER_NUMBER": {
       "description": "Put Owner Number Here",
@@ -44,18 +44,18 @@
     },
     "AUTOLIKE_EMOJI": {
       "description": "Input your custom status like emoji else leave blank to use default => 💚",
-      "required": false,
+      "required": true,
       "value": "💚"
     },
     "AUTO_REPLY_STATUS": {
       "description": "make it true if you want the bot to send message after viewing status else leave blank",
-      "required": false,
-      "value": ""
+      "required": true,
+      "value": "👍 සුපිරි බන්      බොට් ගෙන් දමන් මැසෙජ් එකකි💗⃝⃙̶̽🍃 𝐒𝐋 ̶🕊️ 𝐊𝐀𝐕𝐈𝐘𝐀̅ͫ💗⃝⃘̶̽🍃"
     },
     "STATUS_READ_MSG": {
       "description": "set your status reply message to be sent after bot views status else leave blank",
-      "required": false,
-      "value": "Status Viewed by Gifted-Md"
+      "required": true,
+      "value": "👍 සුපිරි බන්      බොට් ගෙන් දමන් මැසෙජ් එකකි"
     },
     "AUTO_READ_MESSAGES": {
       "description": "Make it true if you want bot to always read messages else leave blank",
@@ -71,7 +71,7 @@
     },
     "ALWAYS_ONLINE": {
       "description": "Make it true if you want bot to show always online else leave blank",
-      "required": false
+      "required": true
     },
     "AUTO_BLOCK": {
       "description": "Provide country codes you want the bot to automatically block else leave blank",
